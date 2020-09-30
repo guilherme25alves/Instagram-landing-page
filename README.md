@@ -4,3 +4,6 @@ Projeto simples feito através do Bootcamp da Digital Innovation One, em conjunt
 
 Para isso foi criado um modelo semelhante a landing page do Instagram na Web.
 
+Projeto desenvolvido com HTML5 + CSS3.
+
+![Instagram Design](https://github.com/guilherme25alves/DIO-landing-page-Instagram/blob/master/img/instagram-clone.png?raw=true)
