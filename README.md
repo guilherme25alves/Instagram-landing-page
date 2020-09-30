@@ -6,4 +6,4 @@ Para isso foi criado um modelo semelhante a landing page do Instagram na Web.
 
 Projeto desenvolvido com HTML5 + CSS3.
 
-![Instagram Design](https://github.com/guilherme25alves/DIO-landing-page-Instagram/blob/master/img/instagram-clone.png?raw=true)
+![Instagram Design](https://github.com/guilherme25alves/Instagram-landing-page/blob/master/img/instagram-clone.png?raw=true)
